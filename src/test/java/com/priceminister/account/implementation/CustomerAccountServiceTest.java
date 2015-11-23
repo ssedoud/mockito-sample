@@ -84,7 +84,7 @@ public class CustomerAccountServiceTest {
     /**
      * GIVEN Customer account with a 400 euros balance
      * WHEN add 100 euros
-     * THEN The new balance is 300 euros
+     * THEN The new balance is 500 euros
      * @throws IllegalBalanceException
      */
     @Test
